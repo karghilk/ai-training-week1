@@ -1,3 +1,3 @@
 ﻿# AI Training Week 1
 
-This project contains monthly sales charts.
+This project contains employee charts and monthly sales charts.
